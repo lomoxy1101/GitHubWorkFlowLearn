@@ -5,3 +5,6 @@ public void method(){
 	a++;
 	println("hello "+a+" welcome!");
 }
+
+lomoxy1101编辑的内容~~
+
