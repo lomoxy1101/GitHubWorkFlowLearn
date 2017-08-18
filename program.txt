@@ -1,6 +1,7 @@
 change to def 11:56 12:48
-merge method from xiao 13:31public void method(){
+merge method from xiao 14:40
+public void method(){
  	a=0;
 	a++;
-	println(a);
+	println("hello "+a+" welcome!");
 }
