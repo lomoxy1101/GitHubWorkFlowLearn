@@ -1,4 +1,4 @@
-change to def 11:56 12:48
+﻿change to def 11:56 12:48
 merge method from xiao 14:40
 public void method(){
  	a=0;
@@ -7,4 +7,5 @@ public void method(){
 }
 
 lomoxy1101编辑的内容~~
+又添加了一部分
 
