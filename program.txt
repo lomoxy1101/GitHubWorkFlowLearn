@@ -1,2 +1,6 @@
 change to def 11:56 12:48
-edit method from another user 14:02
+merge method from xiao 13:31public void method(){
+ 	a=0;
+	a++;
+	println(a);
+}
