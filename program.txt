@@ -6,7 +6,4 @@ public void method(){
 	println("hello "+a+" welcome!");
 }
 
-lomoxy1101编辑的内容~~
-
-又添加了一部分
 
